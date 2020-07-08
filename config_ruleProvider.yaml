@@ -1,0 +1,178 @@
+rules:
+  # MyRule
+
+  # MyRule_Special
+  - RULE-SET,🎯 全球直连_MySpecial,🎯 全球直连
+  - RULE-SET,🔰 节点选择_MySpecial,🔰 节点选择
+
+  # ACL4SSR
+  - RULE-SET,🎯 全球直连_LocalAreaNetwork,🎯 全球直连
+  - RULE-SET,🎯 全球直连_UnBan,🎯 全球直连
+  - RULE-SET,🛑 全球拦截_BanAD,🛑 全球拦截
+  - RULE-SET,🍃 应用净化_BanProgramAD,🍃 应用净化
+  - RULE-SET,🆎 AdBlock_BanEasyList,🆎 AdBlock
+  - RULE-SET,🆎 AdBlock_BanEasyListChina,🆎 AdBlock
+  - RULE-SET,🎵 Netease Music_Music,🎵 Netease Music
+  - RULE-SET,🕹 游戏平台_Epic,🕹 游戏平台
+  - RULE-SET,🕹 游戏平台_Sony,🕹 游戏平台
+  - RULE-SET,🕹 游戏平台_Steam,🕹 游戏平台
+  - RULE-SET,📹 YouTube_油管,📹 YouTube
+  - RULE-SET,🎧 Spotify_spo,🎧 Spotify
+  - RULE-SET,🎯 全球直连_GoogleCN,🎯 全球直连
+  - RULE-SET,Ⓜ️ 微软服务_Microsoft,Ⓜ️ 微软服务
+  - RULE-SET,🍎 苹果服务_Apple,🍎 苹果服务
+  - RULE-SET,🍭 谷歌服务_Google,🍭 谷歌服务
+  - RULE-SET,🍭 谷歌服务_GoogleFCM,🍭 谷歌服务
+  - RULE-SET,📲 电报信息_Telegram,📲 电报信息
+  - RULE-SET,🌍 国外媒体_ProxyMedia,🌍 国外媒体
+  - RULE-SET,🔰 节点选择_ProxyGFWlist,🔰 节点选择
+  - RULE-SET,🎯 全球直连_ChinaDomain,🎯 全球直连
+  - RULE-SET,🎯 全球直连_ChinaCompanyIp,🎯 全球直连
+  - GEOIP,CN,🎯 全球直连
+  - MATCH,🐟 漏网之鱼
+
+rule-providers:
+# acl4ssr
+  🎯 全球直连_MySpecial:
+    type: http
+    behavior: classical
+    url: https://gist.githubusercontent.com/RunStar99/c5466ffc6a51b4dce604d562d86dfb1a/raw/clashRlue_Direct.yaml
+    path: ./rule_provider/rule-provider_MySpecial_Direct.yaml
+    interval: 86400
+  🔰 节点选择_MySpecial:
+    type: http
+    behavior: classical
+    url: https://gist.githubusercontent.com/RunStar99/84c2fcfd4b555427a0481543cb484a2f/raw/clashRule_proxy.yaml
+    path: ./rule_provider/rule-provider_MySpecial_proxy.yaml
+    interval: 86400
+
+# acl4ssr
+  🎯 全球直连_LocalAreaNetwork:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/LocalAreaNetwork.yaml
+    path: ./rule_provider/rule-provider_LocalAreaNetwork.yaml
+    interval: 86400
+  🎯 全球直连_UnBan:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/UnBan.yaml
+    path: ./rule_provider/rule-provider_UnBan.yaml
+    interval: 86400
+  🛑 全球拦截_BanAD:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/BanAD.yaml
+    path: ./rule_provider/rule-provider_BanAD.yaml
+  🍃 应用净化_BanProgramAD:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/BanProgramAD.yaml
+    path: ./rule_provider/rule-provider_BanProgramAD.yaml
+    interval: 86400
+  🆎 AdBlock_BanEasyList:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/BanEasyList.yaml
+    path: ./rule_provider/rule-provider_BanEasyList.yaml
+    interval: 86400
+  🆎 AdBlock_BanEasyListChina:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/BanEasyListChina.yaml
+    path: ./rule_provider/rule-provider_BanEasyListChina.yaml
+    interval: 86400
+  🎵 Netease Music_Music:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/NetEaseMusic.yaml
+    path: ./rule_provider/rule-provider_NetEaseMusic.yaml
+    interval: 86400
+  🕹 游戏平台_Epic:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Epic.yaml
+    path: ./rule_provider/rule-provider_Epic.yaml
+    interval: 86400
+  🕹 游戏平台_Sony:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Sony.yaml
+    path: ./rule_provider/rule-provider_Sony.yaml
+    interval: 86400
+  🕹 游戏平台_Steam:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Steam.yaml
+    path: ./rule_provider/rule-provider_Steam.yaml
+    interval: 86400
+  📹 YouTube_油管:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/YouTube.yaml
+    path: ./rule_provider/rule-provider_YouTube.yaml
+  🎧 Spotify_spo:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Spotify.yaml
+    path: ./rule_provider/rule-provider_Spotify.yaml
+  🎯 全球直连_GoogleCN:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/GoogleCN.yaml
+    path: ./rule_provider/rule-provider_GoogleCN.yaml
+    interval: 86400
+  Ⓜ️ 微软服务_Microsoft:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Microsoft.yaml
+    path: ./rule_provider/rule-provider_Microsoft.yaml
+    interval: 86400
+  🍎 苹果服务_Apple:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Apple.yaml
+    path: ./rule_provider/rule-provider_Apple.yaml
+    interval: 86400
+  🍭 谷歌服务_Google:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Google.yaml
+    path: ./rule_provider/rule-provider_Google.yaml
+    interval: 86400
+  🍭 谷歌服务_GoogleFCM:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/GoogleFCM.yaml
+    path: ./rule_provider/rule-provider_GoogleFCM.yaml
+    interval: 86400
+  📲 电报信息_Telegram:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/Telegram.yaml
+    path: ./rule_provider/rule-provider_Telegram.yaml
+    interval: 86400
+  🌍 国外媒体_ProxyMedia:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ProxyMedia.yaml
+    path: ./rule_provider/rule-provider_ProxyMedia.yaml
+    interval: 86400
+  🔰 节点选择_ProxyGFWlist:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ProxyGFWlist.yaml
+    path: ./rule_provider/rule-provider_ProxyGFWlist.yaml
+    interval: 86400
+  🎯 全球直连_ChinaDomain:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaDomain.yaml
+    path: ./rule_provider/rule-provider_ChinaDomain.yaml
+    interval: 86400
+  🎯 全球直连_ChinaCompanyIp:
+    type: http
+    behavior: ipcidr
+    url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaCompanyIp.yaml
+    path: ./rule_provider/rule-provider_ChinaCompanyIp.yaml
+    interval: 86400
