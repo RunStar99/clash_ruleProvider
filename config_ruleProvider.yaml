@@ -36,13 +36,13 @@ rule-providers:
   🎯 全球直连_MySpecial:
     type: http
     behavior: classical
-    url: https://gist.githubusercontent.com/RunStar99/c5466ffc6a51b4dce604d562d86dfb1a/raw/clashRlue_Direct.yaml
+    url: 
     path: ./rule_provider/rule-provider_MySpecial_Direct.yaml
     interval: 86400
   🔰 节点选择_MySpecial:
     type: http
     behavior: classical
-    url: https://gist.githubusercontent.com/RunStar99/84c2fcfd4b555427a0481543cb484a2f/raw/clashRule_proxy.yaml
+    url: 
     path: ./rule_provider/rule-provider_MySpecial_proxy.yaml
     interval: 86400
 
