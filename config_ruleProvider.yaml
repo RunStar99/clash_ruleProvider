@@ -12,6 +12,7 @@ rules:
   - RULE-SET,🍃 应用净化_BanProgramAD,🍃 应用净化
   - RULE-SET,🆎 AdBlock_BanEasyList,🆎 AdBlock
   - RULE-SET,🆎 AdBlock_BanEasyListChina,🆎 AdBlock
+  - RULE-SET,🆎 AdBlock_BanEasyPrivacy,🆎 AdBlock
   - RULE-SET,🎵 Netease Music_Music,🎵 Netease Music
   - RULE-SET,🕹 游戏平台_Epic,🕹 游戏平台
   - RULE-SET,🕹 游戏平台_Sony,🕹 游戏平台
@@ -32,7 +33,7 @@ rules:
   - MATCH,🐟 漏网之鱼
 
 rule-providers:
-# acl4ssr
+# MyRule
   🎯 全球直连_MySpecial:
     type: http
     behavior: classical
@@ -45,6 +46,11 @@ rule-providers:
     url: 
     path: ./rule_provider/rule-provider_MySpecial_proxy.yaml
     interval: 86400
+  🆎 AdBlock_BanEasyPrivacy:  
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh//RunStar99/clash_ruleProvider/EasyPrivacy.yaml
+    path: ./rule_provider/rule-provider_BanEasyPrivacy.yaml
 
 # acl4ssr
   🎯 全球直连_LocalAreaNetwork:
