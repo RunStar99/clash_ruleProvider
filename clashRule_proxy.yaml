@@ -1,0 +1,43 @@
+payload:
+  - DOMAIN,www.duyaoss.com
+  - DOMAIN-SUFFIX,pincong.rocks
+  - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-SUFFIX,clashcloud.net
+
+  - DOMAIN-SUFFIX,wolframalpha.com
+  - DOMAIN-SUFFIX,shodan.io
+  - DOMAIN,s3.apk4all.com
+  - DOMAIN,install.appcenter.ms
+  - DOMAIN-SUFFIX,exploit-db.com
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,apk4all.com
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN,iterm2.com
+  - DOMAIN-SUFFIX,musixmatch.com
+  - DOMAIN-SUFFIX,api.dmooji.com
+  - DOMAIN-SUFFIX,gfycat.com
+  - DOMAIN,homebrew.bintray.com
+
+  # 内容：Developer 开发者常用国外网站、镜像和论坛
+  # 数量：19条
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,elastic.com
+  - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,jitpack.io
+  - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,mvnrepository.com
+  - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,sonatype.org
+  - DOMAIN-SUFFIX,sourcegraph.com
+  - DOMAIN-SUFFIX,spring.io
+  - DOMAIN-SUFFIX,spring.net
+  - DOMAIN-SUFFIX,stackoverflow.com
