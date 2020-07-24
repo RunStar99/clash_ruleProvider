@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,api.dmooji.com
   - DOMAIN-SUFFIX,gfycat.com
   - DOMAIN,homebrew.bintray.com
+  - DOMAIN-SUFFIX,politico.com
 
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
