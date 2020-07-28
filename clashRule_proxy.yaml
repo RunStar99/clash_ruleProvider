@@ -3,6 +3,9 @@ payload:
   - DOMAIN-SUFFIX,pincong.rocks
   - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-SUFFIX,clashcloud.net
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,zopim.com
+  - DOMAIN-SUFFIX,zdassets.com
 
   - DOMAIN-SUFFIX,wolframalpha.com
   - DOMAIN-SUFFIX,shodan.io
