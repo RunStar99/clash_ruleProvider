@@ -2,8 +2,8 @@ payload:
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-30 22:04:38
-# 数量：2525条
+# 更新：2020-08-02 17:17:09
+# 数量：2521条
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
   - DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -38,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,act.acotedemoi.com
   - DOMAIN-SUFFIX,activities.niagara.comedycentral.com
   - DOMAIN-SUFFIX,activity.frequency.com
-  - DOMAIN-SUFFIX,activity.homescape.com
   - DOMAIN-SUFFIX,ad7.bigmir.net
   - DOMAIN-SUFFIX,adc-js.nine.com.au
   - DOMAIN-SUFFIX,adc.9news.com.au
@@ -118,7 +117,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.cmg.net
   - DOMAIN-SUFFIX,analytics.cocolog-nifty.com
   - DOMAIN-SUFFIX,analytics.codigo.se
-  - DOMAIN-SUFFIX,analytics.cohesionapps.com
   - DOMAIN-SUFFIX,analytics.competitoor.com
   - DOMAIN-SUFFIX,analytics.convertlanguage.com
   - DOMAIN-SUFFIX,analytics.cynapse.com
@@ -129,6 +127,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.dvidshub.net
   - DOMAIN-SUFFIX,analytics.ecosia.org
   - DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
+  - DOMAIN-SUFFIX,analytics.erepublic.com
   - DOMAIN-SUFFIX,analytics.favcy.com
   - DOMAIN-SUFFIX,analytics.footballdb.com
   - DOMAIN-SUFFIX,analytics.foresee.com
@@ -643,7 +642,6 @@ payload:
   - DOMAIN-SUFFIX,d.nativendo.de
   - DOMAIN-SUFFIX,d.omsnative.de
   - DOMAIN-SUFFIX,d.shareaholic.com
-  - DOMAIN-SUFFIX,d1.abtshield.com
   - DOMAIN-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
   - DOMAIN-SUFFIX,da.netease.com
   - DOMAIN-SUFFIX,da.virginmedia.com
@@ -832,7 +830,6 @@ payload:
   - DOMAIN-SUFFIX,events.brightline.tv
   - DOMAIN-SUFFIX,events.chaordicsystems.com
   - DOMAIN-SUFFIX,events.demoup.com
-  - DOMAIN-SUFFIX,events.godaddy.com
   - DOMAIN-SUFFIX,events.guesttoguest.com
   - DOMAIN-SUFFIX,events.il.fi
   - DOMAIN-SUFFIX,events.ingatlan.com
@@ -1179,7 +1176,6 @@ payload:
   - DOMAIN-SUFFIX,m.trb.com
   - DOMAIN-SUFFIX,ma.register.it
   - DOMAIN-SUFFIX,magnify360-cdn.s3.amazonaws.com
-  - DOMAIN-SUFFIX,make.cohesionapps.com
   - DOMAIN-SUFFIX,mar.vip.com
   - DOMAIN-SUFFIX,mark.isbank.com.tr
   - DOMAIN-SUFFIX,marketing.alibaba.com
