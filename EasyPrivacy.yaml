@@ -2,8 +2,8 @@ payload:
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-08-02 17:17:09
-# 数量：2521条
+# 更新：2020-08-04 21:59:18
+# 数量：2525条
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
   - DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -273,6 +273,7 @@ payload:
   - DOMAIN-SUFFIX,aserve.directorym.com
   - DOMAIN-SUFFIX,astat.nikkei.com
   - DOMAIN-SUFFIX,asumi.shinobi.jp
+  - DOMAIN-SUFFIX,at.pagesjaunes.fr
   - DOMAIN-SUFFIX,atanx.alicdn.com
   - DOMAIN-SUFFIX,atax.gamermetrics.com
   - DOMAIN-SUFFIX,atax.teamxbox.com
@@ -540,6 +541,7 @@ payload:
   - DOMAIN-SUFFIX,compare.liligo.com
   - DOMAIN-SUFFIX,compteur.developpez.com
   - DOMAIN-SUFFIX,compteur.websiteout.net
+  - DOMAIN-SUFFIX,confiant-integrations.global.ssl.fastly.net
   - DOMAIN-SUFFIX,confirm-referer.glrsales.com
   - DOMAIN-SUFFIX,consent.api.osano.com
   - DOMAIN-SUFFIX,consent.inm.ie
@@ -1430,6 +1432,7 @@ payload:
   - DOMAIN-SUFFIX,pixels.livingsocial.com
   - DOMAIN-SUFFIX,pixiedust.buzzfeed.com
   - DOMAIN-SUFFIX,play.mix.kinostuff.com
+  - DOMAIN-SUFFIX,plumbus.minutemediaservices.com
   - DOMAIN-SUFFIX,pmetrics.performancing.com
   - DOMAIN-SUFFIX,po.ponant.com
   - DOMAIN-SUFFIX,pos.baidu.com
@@ -1995,6 +1998,7 @@ payload:
   - DOMAIN-SUFFIX,t.quisma.com
   - DOMAIN-SUFFIX,t.raptorsmartadvisor.com
   - DOMAIN-SUFFIX,t.regionsjob.com
+  - DOMAIN-SUFFIX,t.seesaa.net
   - DOMAIN-SUFFIX,t.sgc.io
   - DOMAIN-SUFFIX,t.sharethis.com
   - DOMAIN-SUFFIX,t.signalayer.com
@@ -2389,7 +2393,6 @@ payload:
   - DOMAIN-SUFFIX,twch.20min.ch
   - DOMAIN-SUFFIX,ubt.berlingskemedia.net
   - DOMAIN-SUFFIX,uestat.video.qiyi.com
-  - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,up.boston.com
   - DOMAIN-SUFFIX,up.nytimes.com
   - DOMAIN-SUFFIX,upstats.yadro.ru
@@ -2449,6 +2452,7 @@ payload:
   - DOMAIN-SUFFIX,vtf2f.banque-casino.fr
   - DOMAIN-SUFFIX,vtrtl.de
   - DOMAIN-SUFFIX,vv.ricardo.ch
+  - DOMAIN-SUFFIX,wa.gmx.fr
   - DOMAIN-SUFFIX,wa.metro.co.uk
   - DOMAIN-SUFFIX,wa.ui-portal.de
   - DOMAIN-SUFFIX,wal.wolfram.com
