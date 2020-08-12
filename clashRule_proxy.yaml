@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,zopim.com
   - DOMAIN-SUFFIX,zdassets.com
 
+  - DOMAIN-SUFFIX,twitter.com         #Strange bug
   - DOMAIN-SUFFIX,wolframalpha.com
   - DOMAIN-SUFFIX,shodan.io
   - DOMAIN,s3.apk4all.com
