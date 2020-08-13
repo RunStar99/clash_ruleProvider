@@ -2,7 +2,7 @@ payload:
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-08-09 21:40:10
+# 更新：2020-08-12 23:58:26
 # 数量：2628条
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-production.hapyak.com
   - DOMAIN-SUFFIX,analytics-rhwg.rhcloud.com
   - DOMAIN-SUFFIX,analytics-scripts.cablelabs.com
+  - DOMAIN-SUFFIX,analytics-sg.tiktok.com
   - DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
   - DOMAIN-SUFFIX,analytics.163.com
   - DOMAIN-SUFFIX,analytics.30m.com
@@ -1474,7 +1475,6 @@ payload:
   - DOMAIN-SUFFIX,pixel.pcworld.com
   - DOMAIN-SUFFIX,pixel.propublica.org
   - DOMAIN-SUFFIX,pixel.prosieben.de
-  - DOMAIN-SUFFIX,pixel.reddit.com
   - DOMAIN-SUFFIX,pixel.roymorgan.com
   - DOMAIN-SUFFIX,pixel.s3xified.com
   - DOMAIN-SUFFIX,pixel.solvemedia.com
