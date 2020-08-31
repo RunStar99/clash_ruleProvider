@@ -2,8 +2,8 @@ payload:
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-08-23 00:48:31
-# 数量：2631条
+# 更新：2020-08-28 23:35:28
+# 数量：2639条
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
   - DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -21,7 +21,7 @@ payload:
   - DOMAIN-SUFFIX,a.mobify.com
   - DOMAIN-SUFFIX,a.o2u.jp
   - DOMAIN-SUFFIX,a.tovarro.com
-  - DOMAIN-SUFFIX,a2-eng.spankbang.com
+  - DOMAIN-SUFFIX,a2x-eng.spankbang.com
   - DOMAIN-SUFFIX,a8ht.hipp.fr
   - DOMAIN-SUFFIX,aa.avvo.com
   - DOMAIN-SUFFIX,aax-eu-dub.amazon.com
@@ -695,6 +695,7 @@ payload:
   - DOMAIN-SUFFIX,debug-vp.webmd.com
   - DOMAIN-SUFFIX,deepknow.egoid.me
   - DOMAIN-SUFFIX,dejavu.mercadolivre.com.br
+  - DOMAIN-SUFFIX,deliver.oztam.com.au
   - DOMAIN-SUFFIX,deliver.ptgncdn.com
   - DOMAIN-SUFFIX,desa.fkapi.net
   - DOMAIN-SUFFIX,desb.fkapi.net
@@ -888,6 +889,7 @@ payload:
   - DOMAIN-SUFFIX,evnt.iol.it
   - DOMAIN-SUFFIX,evt.izooto.com
   - DOMAIN-SUFFIX,exd4.destinia.com.au
+  - DOMAIN-SUFFIX,execution-ci360.rai.it
   - DOMAIN-SUFFIX,expbl2ro.xbox.com
   - DOMAIN-SUFFIX,expdb2.msn.com
   - DOMAIN-SUFFIX,experience.contextly.com
@@ -1023,7 +1025,6 @@ payload:
   - DOMAIN-SUFFIX,harvester.ext.square-enix-europe.com
   - DOMAIN-SUFFIX,harvester.hbpl.co.uk
   - DOMAIN-SUFFIX,harwichandmanningtreestandard-gb.harwichandmanningtreestandard.co.uk
-  - DOMAIN-SUFFIX,hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,hbx.df-srv.de
   - DOMAIN-SUFFIX,heartbeat.flickr.com
   - DOMAIN-SUFFIX,hello.staticstuff.net
@@ -1117,7 +1118,6 @@ payload:
   - DOMAIN-SUFFIX,l.m.naver.com
   - DOMAIN-SUFFIX,l.ooyala.com
   - DOMAIN-SUFFIX,l.player.ooyala.com
-  - DOMAIN-SUFFIX,l.popin.cc
   - DOMAIN-SUFFIX,l.sharethis.com
   - DOMAIN-SUFFIX,la-sync.taboola.com
   - DOMAIN-SUFFIX,laas.americanexpress.com
@@ -1159,6 +1159,7 @@ payload:
   - DOMAIN-SUFFIX,log.cizion.com
   - DOMAIN-SUFFIX,log.codemarketing.cloud
   - DOMAIN-SUFFIX,log.ecgh.dk
+  - DOMAIN-SUFFIX,log.etoday.co.kr
   - DOMAIN-SUFFIX,log.f-tra.com
   - DOMAIN-SUFFIX,log.flight.qunar.com
   - DOMAIN-SUFFIX,log.hiiir.com
@@ -1185,6 +1186,7 @@ payload:
   - DOMAIN-SUFFIX,log.superweb.ws
   - DOMAIN-SUFFIX,log.sv.pandora.tv
   - DOMAIN-SUFFIX,log.tagtic.cn
+  - DOMAIN-SUFFIX,log.targetpush.co.kr
   - DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
   - DOMAIN-SUFFIX,log.wat.tv
   - DOMAIN-SUFFIX,log.webnovel.com
@@ -1347,6 +1349,7 @@ payload:
   - DOMAIN-SUFFIX,nm.newegg.com
   - DOMAIN-SUFFIX,nmtracking.netflix.com
   - DOMAIN-SUFFIX,noa0.compteczam.fr
+  - DOMAIN-SUFFIX,noflake-aggregator-http.narvar.com
   - DOMAIN-SUFFIX,nol.yahoo.com
   - DOMAIN-SUFFIX,northwichguardian-gb.northwichguardian.co.uk
   - DOMAIN-SUFFIX,nova.dice.net
@@ -1396,7 +1399,6 @@ payload:
   - DOMAIN-SUFFIX,p.tencentmind.com
   - DOMAIN-SUFFIX,p.travelsmarter.net
   - DOMAIN-SUFFIX,p.yotpo.com
-  - DOMAIN-SUFFIX,p2-eng.spankbang.com
   - DOMAIN-SUFFIX,page-events-ustats.udemy.com
   - DOMAIN-SUFFIX,pageinfo.motorsport.com
   - DOMAIN-SUFFIX,pages-stats.rbl.ms
@@ -1523,6 +1525,7 @@ payload:
   - DOMAIN-SUFFIX,pub.sheknows.com
   - DOMAIN-SUFFIX,pv.hd.sohu.com
   - DOMAIN-SUFFIX,pv.ltn.com.tw
+  - DOMAIN-SUFFIX,pv.pjtsu.com
   - DOMAIN-SUFFIX,pv.sohu.com
   - DOMAIN-SUFFIX,pv.udn.com
   - DOMAIN-SUFFIX,pv.xcar.com.cn
@@ -1952,6 +1955,7 @@ payload:
   - DOMAIN-SUFFIX,stats.ozwebsites.biz
   - DOMAIN-SUFFIX,stats.pandora.com
   - DOMAIN-SUFFIX,stats.paste2.org
+  - DOMAIN-SUFFIX,stats.phoenix-widget.com
   - DOMAIN-SUFFIX,stats.piaggio.com
   - DOMAIN-SUFFIX,stats.polldaddy.com
   - DOMAIN-SUFFIX,stats.proff.no
@@ -1970,6 +1974,7 @@ payload:
   - DOMAIN-SUFFIX,stats.smartclip.net
   - DOMAIN-SUFFIX,stats.someecards.com
   - DOMAIN-SUFFIX,stats.splinder.com
+  - DOMAIN-SUFFIX,stats.stylight.it
   - DOMAIN-SUFFIX,stats.tazeros.com
   - DOMAIN-SUFFIX,stats.technopia.it
   - DOMAIN-SUFFIX,stats.teledyski.info
@@ -2469,12 +2474,15 @@ payload:
   - DOMAIN-SUFFIX,ts.rtl.de
   - DOMAIN-SUFFIX,ts.tradetracker.net
   - DOMAIN-SUFFIX,tsj0.madeindesign.com
+  - DOMAIN-SUFFIX,ttauri.bikeperfect.com
   - DOMAIN-SUFFIX,ttauri.creativebloq.com
   - DOMAIN-SUFFIX,ttauri.laptopmag.com
   - DOMAIN-SUFFIX,ttauri.livescience.com
   - DOMAIN-SUFFIX,ttauri.loudersound.com
+  - DOMAIN-SUFFIX,ttauri.musicradar.com
   - DOMAIN-SUFFIX,ttauri.nexttv.com
   - DOMAIN-SUFFIX,ttauri.space.com
+  - DOMAIN-SUFFIX,ttauri.t3.com
   - DOMAIN-SUFFIX,ttauri.tomsguide.com
   - DOMAIN-SUFFIX,ttauri.tomshardware.com
   - DOMAIN-SUFFIX,ttauri.whathifi.com
