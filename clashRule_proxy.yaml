@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,politico.com
   - DOMAIN-SUFFIX,tonymacx86.com
   - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,archlinux.org
 
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
