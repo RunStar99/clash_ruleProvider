@@ -14,3 +14,4 @@ payload:
   - DOMAIN,runstar-sub.herokuapp.com
   - DOMAIN,ntt-co-jp.club
   - DOMAIN-SUFFIX,pcbeta.com
+  - DOMAIN-SUFFIX,neetgo.com
