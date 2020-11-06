@@ -1,3 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,cros.wr.pvp.net  #英雄联盟手游国际服
-
+    # 内容：腾讯Lol手游
+    # 数量：3条
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,wr.pvp.net
+  - DOMAIN-SUFFIX,riotgames.com
