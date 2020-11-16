@@ -53,3 +53,4 @@ payload:
 
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,www.tonymacx86.com

@@ -2,8 +2,8 @@ payload:
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-11-02 22:23:26
-# 数量：2696条
+# 更新：2020-11-11 21:31:20
+# 数量：2706条
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
   - DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -737,6 +737,7 @@ payload:
   - DOMAIN-SUFFIX,dsg.interia.pl
   - DOMAIN-SUFFIX,dt.nrjmobile.fr
   - DOMAIN-SUFFIX,dudleynews-gb.dudleynews.co.uk
+  - DOMAIN-SUFFIX,dumpster.cam4.com
   - DOMAIN-SUFFIX,dup.baidustatic.com
   - DOMAIN-SUFFIX,dv.chemie.de
   - DOMAIN-SUFFIX,dv59b.montecarlomeeting.com
@@ -859,6 +860,7 @@ payload:
   - DOMAIN-SUFFIX,event.api.drift.com
   - DOMAIN-SUFFIX,event.dkb.de
   - DOMAIN-SUFFIX,event.getblue.io
+  - DOMAIN-SUFFIX,event.syndigo.cloud
   - DOMAIN-SUFFIX,eventapi.libring.com
   - DOMAIN-SUFFIX,eventgateway.soundcloud.com
   - DOMAIN-SUFFIX,eventlog.inspsearchapi.com
@@ -958,6 +960,8 @@ payload:
   - DOMAIN-SUFFIX,g4159771035.co
   - DOMAIN-SUFFIX,g4357855370.co
   - DOMAIN-SUFFIX,g4555939705.co
+  - DOMAIN-SUFFIX,g4754024040.co
+  - DOMAIN-SUFFIX,g4952108375.co
   - DOMAIN-SUFFIX,g4p.redtram.com
   - DOMAIN-SUFFIX,ga-beacon.appspot.com
   - DOMAIN-SUFFIX,ga.canoe.ca
@@ -1104,6 +1108,7 @@ payload:
   - DOMAIN-SUFFIX,informers.sinoptik.ua
   - DOMAIN-SUFFIX,inquiries.redhat.com
   - DOMAIN-SUFFIX,insight.fonecta.fi
+  - DOMAIN-SUFFIX,insights.cdt.ch
   - DOMAIN-SUFFIX,insights.sitesearch360.com
   - DOMAIN-SUFFIX,insitez.blob.core.windows.net
   - DOMAIN-SUFFIX,instore.pagomeno.it
@@ -1444,6 +1449,7 @@ payload:
   - DOMAIN-SUFFIX,pb.i.sogou.com
   - DOMAIN-SUFFIX,pb.m.naver.com
   - DOMAIN-SUFFIX,pbox.photobox.de
+  - DOMAIN-SUFFIX,pcgamer-gb.pcgamer.com
   - DOMAIN-SUFFIX,pclick.europe.yahoo.com
   - DOMAIN-SUFFIX,pclick.internal.yahoo.com
   - DOMAIN-SUFFIX,pclick.yahoo.com
@@ -1529,6 +1535,7 @@ payload:
   - DOMAIN-SUFFIX,pixels.livingsocial.com
   - DOMAIN-SUFFIX,pixiedust.buzzfeed.com
   - DOMAIN-SUFFIX,play.mix.kinostuff.com
+  - DOMAIN-SUFFIX,player-telemetry.vimeo.com
   - DOMAIN-SUFFIX,plumbus.minutemediaservices.com
   - DOMAIN-SUFFIX,pmetrics.performancing.com
   - DOMAIN-SUFFIX,po.ponant.com
@@ -2156,7 +2163,6 @@ payload:
   - DOMAIN-SUFFIX,tag.triboomedia.it
   - DOMAIN-SUFFIX,tagger.ope.scmp.com
   - DOMAIN-SUFFIX,tagger.opecloud.com
-  - DOMAIN-SUFFIX,taglocker.target.com
   - DOMAIN-SUFFIX,tagm.tchibo.de
   - DOMAIN-SUFFIX,tags.cdn.circlesix.co
   - DOMAIN-SUFFIX,tags.master-perf-tools.com
@@ -2481,6 +2487,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.trovaprezzi.it
   - DOMAIN-SUFFIX,tracking.ukwm.co.uk
   - DOMAIN-SUFFIX,tracking.unitednaturals.com
+  - DOMAIN-SUFFIX,tracking.venturify.at
   - DOMAIN-SUFFIX,tracking.vid4u.org
   - DOMAIN-SUFFIX,tracking.waterfrontmedia.com
   - DOMAIN-SUFFIX,tracking.webtradecenter.com
@@ -2530,6 +2537,7 @@ payload:
   - DOMAIN-SUFFIX,tsj0.madeindesign.com
   - DOMAIN-SUFFIX,ttauri.bikeperfect.com
   - DOMAIN-SUFFIX,ttauri.creativebloq.com
+  - DOMAIN-SUFFIX,ttauri.guitarworld.com
   - DOMAIN-SUFFIX,ttauri.laptopmag.com
   - DOMAIN-SUFFIX,ttauri.livescience.com
   - DOMAIN-SUFFIX,ttauri.loudersound.com
@@ -2549,6 +2557,7 @@ payload:
   - DOMAIN-SUFFIX,u45.pnc.com
   - DOMAIN-SUFFIX,u46.pnc.com
   - DOMAIN-SUFFIX,u47.pnc.com
+  - DOMAIN-SUFFIX,ua.indianexpress.com
   - DOMAIN-SUFFIX,ubt.berlingskemedia.net
   - DOMAIN-SUFFIX,uestat.video.qiyi.com
   - DOMAIN-SUFFIX,units.knotch.it
@@ -2684,6 +2693,7 @@ payload:
   - DOMAIN-SUFFIX,yeovilexpress-gb.yeovilexpress.co.uk
   - DOMAIN-SUFFIX,yh6u.dealeusedevoyages.com
   - DOMAIN-SUFFIX,yjtag.yahoo.co.jp
+  - DOMAIN-SUFFIX,ymprove.web.de
   - DOMAIN-SUFFIX,ynuf.alibaba.com
   - DOMAIN-SUFFIX,yoc.younited-credit.com
   - DOMAIN-SUFFIX,yourlocalguardian-gb.yourlocalguardian.co.uk
