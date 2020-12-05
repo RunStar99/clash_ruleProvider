@@ -51,7 +51,7 @@ payload:
   - DOMAIN-SUFFIX,spring.net
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN,onedrive.live.com
-
+  - DOMAIN,www.paypalobjects.com
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,www.tonymacx86.com
