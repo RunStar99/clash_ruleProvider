@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,9to5mac.com
+  - DOMAIN,dt.proxy.voovmeeting.com
 
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
