@@ -34,6 +34,7 @@ payload:
   - DOMAIN,www.oxfordlearnersdictionaries.com
   - DOMAIN,userstyles.org
   - DOMAIN,userstylesapi.com
+  - DOMAIN,www.notion.so
 
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
