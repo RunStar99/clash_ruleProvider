@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN,onedrive.live.com
   - DOMAIN,www.paypalobjects.com
+  - DOMAIN,blog.shuziyimin.org
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,www.tonymacx86.com
