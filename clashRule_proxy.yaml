@@ -40,6 +40,8 @@ payload:
   - DOMAIN,www.nbatopshot.com
   - DOMAIN-SUFFIX,dapperlabs.com
   - DOMAIN-SUFFIX,anaconda.com
+  - DOMAIN,clubhouse.pubnubapi.com
+  - DOMAIN-SUFFIX,clubdeck.app
 
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
