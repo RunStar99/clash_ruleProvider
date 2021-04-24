@@ -68,6 +68,7 @@ payload:
   - DOMAIN,www.paypalobjects.com
   - DOMAIN,blog.shuziyimin.org
   - DOMAIN-SUFFIX,signal.org
+  - DOMAIN,pancakeswap.finance
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,www.tonymacx86.com
