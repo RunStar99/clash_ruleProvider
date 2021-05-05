@@ -69,10 +69,11 @@ payload:
   - DOMAIN,blog.shuziyimin.org
   - DOMAIN-SUFFIX,signal.org
   - DOMAIN,min-api.cryptocompare.com
+  - DOMAIN-SUFFIX,www.tonymacx86.com
+  - DOMAIN-SUFFIX,alexandrya.ai
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,venus.io
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN-SUFFIX,www.tonymacx86.com
