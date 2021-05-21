@@ -71,6 +71,7 @@ payload:
   - DOMAIN,min-api.cryptocompare.com
   - DOMAIN-SUFFIX,www.tonymacx86.com
   - DOMAIN-SUFFIX,alexandrya.ai
+  - DOMAIN,ghcr.io
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
