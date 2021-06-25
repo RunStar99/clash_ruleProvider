@@ -72,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,www.tonymacx86.com
   - DOMAIN-SUFFIX,alexandrya.ai
   - DOMAIN,ghcr.io
+  - DOMAIN-SUFFIX,opensea.io
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
