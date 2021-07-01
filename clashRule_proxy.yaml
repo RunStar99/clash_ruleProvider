@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,alexandrya.ai
   - DOMAIN,ghcr.io
   - DOMAIN-SUFFIX,opensea.io
+  - DOMAIN,yacd.haishan.me
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
