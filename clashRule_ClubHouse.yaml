@@ -7,3 +7,4 @@ payload:
   - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,www.clubdeck.app
   - DOMAIN,www.clubhouse.com
+  - DOMAIN,production-clubhouse-avatars.s3.amazonaws.com
