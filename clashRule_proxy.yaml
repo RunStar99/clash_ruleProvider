@@ -78,7 +78,9 @@ payload:
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,venus.io
-  #Defi
+  # Defi
+  # Clubhouse
   - DOMAIN,www.defistation.io
+  - DOMAIN,ps.pndsn.com
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
