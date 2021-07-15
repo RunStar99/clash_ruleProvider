@@ -74,13 +74,14 @@ payload:
   - DOMAIN,ghcr.io
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN,yacd.haishan.me
+  - DOMAIN,www.rottentomatoes.com
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,venus.io
   # Defi
-  # Clubhouse
   - DOMAIN,www.defistation.io
+  # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
