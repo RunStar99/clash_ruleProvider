@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN,yacd.haishan.me
   - DOMAIN,www.rottentomatoes.com
+  - DOMAIN,goodmovies.io
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
