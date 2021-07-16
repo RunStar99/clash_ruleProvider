@@ -76,6 +76,7 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,www.rottentomatoes.com
   - DOMAIN,goodmovies.io
+  - DOMAIN,canalys.com
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
