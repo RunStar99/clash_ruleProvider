@@ -78,6 +78,8 @@ payload:
   - DOMAIN,goodmovies.io
   - DOMAIN,canalys.com
   - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,cointelegraph.com
+  - DOMAIN-SUFFIX,bitcoinmagazine.com
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
