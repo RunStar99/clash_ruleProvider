@@ -80,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,cointelegraph.com
   - DOMAIN-SUFFIX,bitcoinmagazine.com
+  - DOMAIN,quickchart.io
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
