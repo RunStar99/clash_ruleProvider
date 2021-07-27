@@ -81,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,cointelegraph.com
   - DOMAIN-SUFFIX,bitcoinmagazine.com
   - DOMAIN,quickchart.io
+  - DOMAIN,linuxnet.ca
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
