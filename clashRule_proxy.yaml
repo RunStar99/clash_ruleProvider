@@ -90,6 +90,8 @@ payload:
   # Defi
   - DOMAIN-SUFFIX,defistation.io
   - DOMAIN-SUFFIX,cryptoslam.io
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,api.cloudfs.info
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
