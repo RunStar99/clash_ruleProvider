@@ -93,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,api.cloudfs.info
   - DOMAIN-SUFFIX,panteracapital.com
+  - DOMAIN-SUFFIX,chainnews.com
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
