@@ -83,6 +83,9 @@ payload:
   - DOMAIN,quickchart.io
   - DOMAIN,linuxnet.ca
   - DOMAIN,www.phrasemix.com
+  - DOMAIN-SUFFIX,feixiaoquan.com
+  - DOMAIN-SUFFIX,bqrank.net
+  - DOMAIN-SUFFIX,bqi.com
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
