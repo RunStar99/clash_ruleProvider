@@ -43,6 +43,7 @@ payload:
   - DOMAIN,tldrthis.com
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,dogeland.io
+  - DOMAIN-SUFFIX,tokenpocket.pro
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
   - DOMAIN-SUFFIX,apache.org
