@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,api.cloudfs.info
   - DOMAIN-SUFFIX,panteracapital.com
   - DOMAIN-SUFFIX,chainnews.com
+  - DOMAIN-SUFFIX,debank.com
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
