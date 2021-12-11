@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,feixiaoquan.com
   - DOMAIN-SUFFIX,bqrank.net
   - DOMAIN-SUFFIX,bqi.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
