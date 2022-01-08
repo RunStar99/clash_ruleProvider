@@ -47,7 +47,6 @@ payload:
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,banklesshq.com
   - DOMAIN-SUFFIX,insider.com
-  - DOMAIN-SUFFIX,okx-dns.com
   
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
