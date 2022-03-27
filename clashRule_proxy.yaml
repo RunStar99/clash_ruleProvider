@@ -92,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,bqrank.net
   - DOMAIN-SUFFIX,bqi.com
   - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,theblockbeats.info
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
