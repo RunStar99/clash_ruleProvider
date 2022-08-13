@@ -111,3 +111,5 @@ payload:
   - DOMAIN,ps.pndsn.com
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
+  
+  - DOMAIN-SUFFIX,mirrorbeats.xyz
