@@ -107,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,panteracapital.com
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,swft.pro
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
