@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,debank.com
   - DOMAIN-SUFFIX,swft.pro
+  - DOMAIN,swap.transit.finance
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
