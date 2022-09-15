@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,banklesshq.com
   - DOMAIN-SUFFIX,insider.com
+  - DOMAIN-SUFFIX,okx-dns.com
   
   # 内容：Developer 开发者常用国外网站、镜像和论坛
   # 数量：19条
@@ -91,27 +92,21 @@ payload:
   - DOMAIN-SUFFIX,feixiaoquan.com
   - DOMAIN-SUFFIX,bqrank.net
   - DOMAIN-SUFFIX,bqi.com
-  - DOMAIN-SUFFIX,coinmarketcap.com
-  - DOMAIN-SUFFIX,theblockbeats.info
   # BSC
   - DOMAIN-SUFFIX,venus.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,venus.io
-  - DOMAIN,liveplay.bblivestream.com
-  - DOMAIN,ethfans.org
   # Defi
   - DOMAIN-SUFFIX,defistation.io
+
   - DOMAIN-SUFFIX,cryptoslam.io
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,api.cloudfs.info
   - DOMAIN-SUFFIX,panteracapital.com
   - DOMAIN-SUFFIX,chainnews.com
-  - DOMAIN-SUFFIX,debank.com
-  - DOMAIN-SUFFIX,swft.pro
-  - DOMAIN,swap.transit.finance
+  - DOMAIN-SUFFIX,odaily.news
+  - DOMAIN-SUFFIX,0daily.com
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
   - DOMAIN-SUFFIX,hcaptcha.com
-  
-  - DOMAIN-SUFFIX,mirrorbeats.xyz
