@@ -106,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,odaily.news
   - DOMAIN-SUFFIX,0daily.com
+  - DOMAIN-SUFFIX,panewslab.com
   # Clubhouse
   - DOMAIN,ps.pndsn.com
   # 验证码
